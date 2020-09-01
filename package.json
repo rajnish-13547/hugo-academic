@@ -1,5 +1,5 @@
 {
-  "name": "academic",
+  "name": "package.json",
   "version": "1.0.0",
   "description": "The Page Builder for Hugo",
   "main": "index.js",
